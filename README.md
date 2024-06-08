@@ -18,3 +18,7 @@ The final dashboard will provide insights into the selected dataset, such as:
 * Trends and patterns
 * Anomalies and outliers
 * Predictive insights (if any)
+
+# Conclusion
+
+This project showcases the ability to handle data from collection to visualization using Power BI. It demonstrates proficiency in data analysis, preprocessing, and creating interactive visualizations that can be used to drive business decisions.
