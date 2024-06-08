@@ -33,3 +33,11 @@ Showing the distribution of neighborhoods by group, this pie chart helps hosts u
 ## Average Review per Neighborhood and Room Type (Table):
 
 This table presents the average review scores received by Airbnb listings based on neighborhood and room type, allowing hosts to identify areas of improvement and focus on enhancing guest experiences.
+
+# Results
+The final dashboard will provide insights into the selected dataset, such as:
+
+* Key performance indicators (KPIs)
+* Trends and patterns
+* Anomalies and outliers
+* Predictive insights (if any)
